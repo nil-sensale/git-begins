@@ -5,3 +5,5 @@ git push --all
 git branch "nom_de_la_branche"
 git checkout "nom_de_la_branche"
 git pull
+
+test manager core
