@@ -2,3 +2,5 @@ git clone "nom_du_dossier"
 git push
 git push origin "nom_de_branche"
 git push --all
+git branch "nom_de_la_branche"
+git checkout "nom_de_la_branche"
